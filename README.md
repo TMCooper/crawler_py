@@ -2,7 +2,7 @@
 
 you can use the following commands to move on the environment :
 
->[!WARNING]
+>.[!WARNING]
 >Use the following commands before running the install.bat
 
 ~~~bash
